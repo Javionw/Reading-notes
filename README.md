@@ -1,12 +1,6 @@
 # Reading-Notes
 Notes for Code School
 
-## [Course 01](/Reading-Notes/Class01).
+## [Course102](https://javionw.github.io/Reading-notes/).
 
-Class 01 - Markdown
-
-## [Course 102](/Reading-Notes/102)
-
-Class 02 stuff
-
-## Class 03
+## [Course201](https://javionw.github.io/Reading-notes/).
