@@ -1,6 +1,6 @@
 # Reading-Notes
 Notes for Code School
 
-## [Course102](https://javionw.github.io/Reading-notes/).
+## [Course102](./Course102/)
 
-## [Course201](https://javionw.github.io/Reading-notes/).
+## [Course201](./Course201/)
