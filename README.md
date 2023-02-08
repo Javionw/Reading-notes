@@ -1,6 +1,5 @@
 # Reading-Notes
-Notes for Code School
-
+Greetings, and welcome to My notes catelog. On this page is my notes from every Course/class! Feel free to view and read about all of my coding notes!
 ## [Course102](./Course102/)
 
 * [Class01 Notes](./Course102/Class01/)
