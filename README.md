@@ -1,4 +1,4 @@
-# Reading-Notes
+# JayTre's Notes :)
 Greetings, and welcome to My notes catelog. On this page is my notes from every Course/class! Feel free to view and read about all of my coding notes!
 ## [Course102](./Course102/)
 
