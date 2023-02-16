@@ -1,6 +1,6 @@
 # JayTre's Notes :)
 Greetings, and welcome to My notes catelog. On this page is my notes from every Course/class! Feel free to view and read about all of my coding notes!
-## [Course102](./Course102/)
+## [Course102 - Intro to Software Developement](./Course102/)
 
 * [Class01 Notes](./Course102/Class01/)
 * [Class02 Notes](./Course102/Class02/)
@@ -11,7 +11,7 @@ Greetings, and welcome to My notes catelog. On this page is my notes from every 
 * [Class07 Notes](./Course102/Class07/)
 * [Class08 Notes](./Course102/Class08/)
 
-## [Course201](./Course201/)
+## [Course201 -Foundations of Software Developement](./Course201/)
 
 * [Class01 Notes](./Course201/Class01/)
 * [Class02 Notes](./Course201/Class02/)
@@ -28,3 +28,8 @@ Greetings, and welcome to My notes catelog. On this page is my notes from every 
 * [Class13 Notes](./Course201/Class13/)
 * [Class14 Notes](./Course201/Class14/)
 * [Class15 Notes](./Course201/Class15/)
+
+## [Course301 -Intermediate Software Developement](./Course301/)
+
+
+## [Course401 -Advanced Software Developement](./Course401/)
