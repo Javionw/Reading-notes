@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab01</title>
+    <style> 
+    h1{
+        background-color: black;
+        color: cyan;
+    }
+    </style>
+</head>
+<body>
+    <header>
+
+    </header>
+    <main>
+<h1>Class 1 Lab</h1>
+<p style="color: aquamarine;background-color: black;">Goodmorning, how are you?</p>
+<p style="color: aqua;background-color: red;">Are you new to coding?</p>
+<p style="color: blueviolet;background-color: fuchsia;">Is learning javascript hard?</p>
+<p style="color: green;background-color:gold;">Do you like styling with css?</p>
+    </main>
+    <footer>
+
+    </footer>
+    <script>
+function whodat() {
+   const username = prompt("what is your name?");
+   if(username != null) {
+       alert("What's Up, " + username);
+   }else{
+        alert("What's Up");
+   }
+   console.log(`what is your name? ${username}`)
+}
+whodat();
+
+function anime() {
+    const answer = prompt("Do you like anime?");
+    if(answer == "yes") {
+        alert("Me too, my favorite is Bleach")
+    }else if(answer == "no") {
+        alert("If you're interested I have some recommendations!")
+
+    }else{
+        alert("Welcome to my page!")
+    }
+    console.log(`Do you like anime? ${answer}`)
+ 
+}
+anime();
+
+function sports(){
+    const answer = prompt("Do you play sports?");
+    if(answer == "yes"){
+        alert("Nice! My favorite sport is basketball!")
+    }else if(answer == "no"){
+        alert("I can teach you how to play ball.")
+
+    }else{
+        alert("Welcome to my page!")
+    }
+    console.log(`Do you play sports? ${answer}`)
+}
+sports();
+
+function newtocoding() {
+    const answer = prompt("Are you new to coding?");
+    if(answer == "yes") {
+        alert("Start in the Markdown section")
+    }else if(answer == "no") {
+        alert("Share with someone who is! I hope you enjoy the Page!")
+
+    }else{
+        alert("Welcome!")
+    }
+    console.log(`Are you new to coding? ${answer}`)   
+}
+newtocoding();
+
+    </script>
+</body>
+</html>
