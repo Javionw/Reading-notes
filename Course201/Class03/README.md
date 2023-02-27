@@ -1,6 +1,6 @@
 # Learn Html
 
-An unordered list (ul) should be used when you want to present a list of items in no particular order. This could include a list of features, a list of benefits, or a list of menu items.
+`An unordered list (ul) should be used when you want to present a list of items in no particular order. This could include a list of features, a list of benefits, or a list of menu items.
 
 You can change the bullet style of unordered list items using CSS. You can use the list-style-type property to change the bullet style to one of the following: disc (default), circle, square, none, or any image.
 
@@ -70,4 +70,4 @@ if (temperature < 32) {
   console.log("Stay cool, it's hot outside!");
 } else {
   console.log("The temperature is comfortable. Enjoy your day!");
-}
+}`
