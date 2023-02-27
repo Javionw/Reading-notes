@@ -18,8 +18,8 @@ When using the `<abbr>` element to provide an abbreviation or acronym, the "titl
 # Learning CSS
 
 here are several ways to apply CSS to HTML, including:
-External stylesheets: This involves creating a separate file with a .css extension and linking it to your HTML file using the <link> element in the <head> section.
-Internal stylesheets: This involves adding your CSS code within the <style> element in the <head> section of your HTML file.
+External stylesheets: This involves creating a separate file with a .css extension and linking it to your HTML file using the `<link>` element in the `<head>` section.
+Internal stylesheets: This involves adding your CSS code within the `<style>` element in the `<head>` `section` of your `HTML` file.
 Inline styles: This involves adding your CSS code directly to the HTML element using the "style" attribute.
 It is generally recommended to avoid using inline styles because they can make your HTML code harder to read and maintain. It is also more difficult to reuse styles across multiple elements when using inline styles. External and internal stylesheets are preferred because they allow you to keep your CSS code separate from your HTML code, making it easier to manage and update.
 
