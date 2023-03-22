@@ -4,31 +4,31 @@
 
 A: The ability to use video and audio on the web has come a long way since the early 2000s. Back then, most web content was text-based, and video and audio were often delivered using plugins like Adobe Flash. However, these plugins were not always reliable and were vulnerable to security issues.
 
-Today, web browsers have built-in support for playing video and audio using HTML5. This means that web developers can use the <video> and <audio> elements to embed video and audio directly into their web pages, without the need for plugins.
+Today, web browsers have built-in support for playing video and audio using HTML5. This means that web developers can use the `<video>` and `<audio>` elements to embed video and audio directly into their web pages, without the need for plugins.
 
 In addition, the quality of video and audio on the web has improved significantly over the years, with support for high-definition video and surround sound audio becoming more common.
 
-## Q: Describe the use of the src and controls attributes in the <video> element.
+## Q: Describe the use of the src and controls attributes in the `<video>` element.
 
-A: The src attribute in the <video> element is used to specify the URL of the video file that should be played. This can be a relative or absolute URL. The controls attribute, when included, adds a set of playback controls to the video player, such as play, pause, and volume controls.
+A: The src attribute in the `<video>` element is used to specify the URL of the video file that should be played. This can be a relative or absolute URL. The controls attribute, when included, adds a set of playback controls to the video player, such as play, pause, and volume controls.
 
-For example, the following code would embed a video file called "myvideo.mp4" and display playback controls:
+For example, the following code would embed a video file called `"myvideo.mp4"` and display playback controls:
 
-<video src="myvideo.mp4" controls></video>
+`<video src="myvideo.mp4" controls></video>`
 
-## Q: Why is it important to have fallback content inside the <video> element?
+## Q: Why is it important to have fallback content inside the `<video>` element?
 
-A: It is important to have fallback content inside the <video> element in case the browser does not support the video format or if the video file cannot be loaded for some reason.
+A: It is important to have fallback content inside the `<video>` element in case the browser does not support the video format or if the video file cannot be loaded for some reason.
 
 By including fallback content, such as a text message or an image, web developers can provide an alternative experience for users who cannot view the video. This ensures that all users can still access the content on the page, even if they cannot view the video.
 
-## Q: Write a very short story where <audio> and <video> are characters.
+## Q: Write a very short story where `<audio>` and `<video>` are characters.
 
-A: Once upon a time, <audio> and <video> were two best friends who loved to entertain people. <audio> had a beautiful voice and would sing songs that <video> would dance to. They were always together, bringing joy to everyone who watched them perform.
+A: Once upon a time, `<audio>` and `<video>` were two best friends who loved to entertain people. `<audio>` had a beautiful voice and would sing songs that `<video>` would dance to. They were always together, bringing joy to everyone who watched them perform.
 
-One day, they were invited to a big concert, where they would perform in front of thousands of people. <audio> was nervous, but <video> assured him that they would do great. And they did! The crowd cheered and clapped as <audio> sang and <video> danced.
+One day, they were invited to a big concert, where they would perform in front of thousands of people. `<audio>` was nervous, but `<video>` assured him that they would do great. And they did! The crowd cheered and clapped as `<audio>` sang and `<video>` danced.
 
-After the show, they were approached by a famous director who offered to make a movie about their adventures. <audio> and <video> were thrilled and eagerly accepted the offer.
+After the show, they were approached by a famous director who offered to make a movie about their adventures. `<audio>` and `<video>` were thrilled and eagerly accepted the offer.
 
 From that day on, they became even more famous, traveling the world and entertaining people everywhere they went. And they remained best friends, always singing and dancing together, and bringing joy to everyone they met.
 
